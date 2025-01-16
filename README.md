@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Murilo Dias ![Bandeira do Brasil](https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg)<br><br> and I'm a student of 42 Porto School</h2>
+<h2 align="left">Hi 👋! My name is Murilo Dias 🇧🇷 and I'm a student of 42 Porto School</h2>
 
 ###
 
