@@ -22,6 +22,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=murilodsd.murilodsd&"  />
+</div>
+
+###
 ###
 
 <p align="left">Currently attending the 42 School Common Core program, where I am immersed in an innovative learning environment based on peer-to-peer pedagogy. I am developing my skills in C/C++, algorithms, and data structures through challenging projects such as minishell, philosophers and push_swap. These projects demand creativity, autonomy, and a deep understanding of system programming concepts. The program's focus on problem-solving and its intensive nature allow me to hone my technical abilities and prepare for the challenges of the job market.</p>
