@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Murilo Dias from Brasil 🇧🇷 <br><br>- 🔭 I’m working as ...<br>- 📚 Currently attending the 42 School Common Core program, where I am immersed in an innovative learning environment based on peer-to-peer pedagogy. I am developing my skills in C/C++, algorithms, and data structures through challenging projects such as minishell and [insert another complex project, e.g., philosophers,  push_swap, etc.]. These projects demand creativity, autonomy, and a deep understanding of system programming concepts. The program's focus on problem-solving and its intensive nature allow me to hone my technical abilities and prepare for the challenges of the job market.<br>- ⚡ In my free time I ...</p>
 
 ###
 
