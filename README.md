@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Primary Technologies</h2>
+<h2 align="left">Primary Technologies 🤘</h2>
 
 ###
 
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Learning in Progress</h2>
+<h2 align="left">Learning in Progress 🔨...</h2>
 
 ###
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Had a Taste Of</h2>
+<h2 align="left">Had a Taste Of 👣</h2>
 
 ###
 
