@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="left">Hi 👋! My name is Murilo Dias 🇧🇷 and I'm a student of 42 Porto School</h2>
+<h2 align="left">Hi, devs 👋! Welcome to my GitHub page</h2>
+
+<h2 align="left">I'm Murilo Dias, a student at 42 Porto School</h2>
 
 ###
 
