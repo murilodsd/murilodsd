@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <h2 align="left">Hi, devs 👋! Welcome to my GitHub page</h2>
 
-<h2 align="left">I'm Murilo Dias, a student at 42 Porto School</h2>
+<h3 align="left">I'm Murilo Dias, a student at 42 Porto School</h3>
 
 ###
 
