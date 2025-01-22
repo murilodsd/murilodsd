@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 
 ###
 
-![Avatar](./avatar.jpg)
+<div align="center">
+  <img src="./avatar.jpg" alt="Avatar" height="80">
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/murilo-de-souza-dias-211845112/" target="_blank">
