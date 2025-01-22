@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 ###
 
-<div align="center">
     ![Avatar](./avatar.jpg)
-</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/murilo-de-souza-dias-211845112/" target="_blank">
