@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-    <img src="[https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge](https://github.com/murilodsd/murilodsd/blob/main/Captura%20de%20tela%202025-01-22%20101426.jpg)" height="200" alt="linkedin logo"  />
+    ![Avatar](./avatar.png)
 </div>
 
 <div align="center">
