@@ -19,12 +19,15 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
+
+<div align="center">
   <a href="https://www.linkedin.com/in/murilo-de-souza-dias-211845112/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
-###
 ###
 
 <p align="left">Currently attending the 42 School Common Core program, where I am immersed in an innovative learning environment based on peer-to-peer pedagogy. I am developing my skills in C/C++, algorithms, and data structures through challenging projects such as minishell, philosophers and push_swap. These projects demand creativity, autonomy, and a deep understanding of system programming concepts. The program's focus on problem-solving and its intensive nature allow me to hone my technical abilities and prepare for the challenges of the job market.</p>
