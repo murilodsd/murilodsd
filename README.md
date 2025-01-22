@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-    ![Avatar](./avatar.png)
+    ![Avatar](./avatar.jpg)
 </div>
 
 <div align="center">
