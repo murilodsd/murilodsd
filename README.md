@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="./avatar.png" alt="Avatar" height="300">
+  <img src="./avatar2.png" alt="Avatar" height="300">
 </div>
 
 <div align="center">
